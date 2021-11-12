@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "JayCSDK": {
+      "commandName": "Project",
+      "nativeDebugging": false
+    }
+  }
+}

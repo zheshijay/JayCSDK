@@ -1,0 +1,16 @@
+C:\Users\shijay\workspace\JayCSDK\bin\Debug\net5.0\JayCSDK.exe
+C:\Users\shijay\workspace\JayCSDK\bin\Debug\net5.0\JayCSDK.deps.json
+C:\Users\shijay\workspace\JayCSDK\bin\Debug\net5.0\JayCSDK.runtimeconfig.json
+C:\Users\shijay\workspace\JayCSDK\bin\Debug\net5.0\JayCSDK.runtimeconfig.dev.json
+C:\Users\shijay\workspace\JayCSDK\bin\Debug\net5.0\JayCSDK.dll
+C:\Users\shijay\workspace\JayCSDK\bin\Debug\net5.0\ref\JayCSDK.dll
+C:\Users\shijay\workspace\JayCSDK\bin\Debug\net5.0\JayCSDK.pdb
+C:\Users\shijay\workspace\JayCSDK\obj\Debug\net5.0\JayCSDK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\shijay\workspace\JayCSDK\obj\Debug\net5.0\JayCSDK.AssemblyInfoInputs.cache
+C:\Users\shijay\workspace\JayCSDK\obj\Debug\net5.0\JayCSDK.AssemblyInfo.cs
+C:\Users\shijay\workspace\JayCSDK\obj\Debug\net5.0\JayCSDK.csproj.CoreCompileInputs.cache
+C:\Users\shijay\workspace\JayCSDK\obj\Debug\net5.0\JayCSDK.dll
+C:\Users\shijay\workspace\JayCSDK\obj\Debug\net5.0\ref\JayCSDK.dll
+C:\Users\shijay\workspace\JayCSDK\obj\Debug\net5.0\JayCSDK.pdb
+C:\Users\shijay\workspace\JayCSDK\obj\Debug\net5.0\JayCSDK.genruntimeconfig.cache
+C:\Users\shijay\workspace\JayCSDK\obj\Debug\net5.0\JayCSDK.csproj.AssemblyReference.cache
